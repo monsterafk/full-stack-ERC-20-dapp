@@ -23,7 +23,7 @@ const config: HardhatUserConfig = {
   networks: { 
     goerli: {
       chainId: 5,
-      url: "url",
+      url: "htps://eth-goerli.g.alchemy.com/v2/OCwWQwMdHroLZJhmwzurl9qAZmZscSxhoSy",
       accounts: [privateKey],
   },
     // hardhat: {
